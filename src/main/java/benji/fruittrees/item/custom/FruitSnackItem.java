@@ -28,8 +28,6 @@ public class FruitSnackItem extends Item {
 
     private StatusEffectInstance getStatusEffect(String ingredient) {
         switch (ingredient) {
-            case "mango":
-                return new StatusEffectInstance(StatusEffects.REGENERATION, 4 * ModItems.TICKS_PER_SECOND, 1);
             case "pomegranate":
                 return new StatusEffectInstance(StatusEffects.STRENGTH, 40 * ModItems.TICKS_PER_SECOND, 1);
             case "pineapple":
