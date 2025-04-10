@@ -1,0 +1,237 @@
+{
+  "fruittrees:recipes/food/pineapple_juice": {
+    "criteria": {
+      "has_pineapple": "2025-04-06 19:40:11 -0400"
+    },
+    "done": true
+  },
+  "fruittrees:recipes/tools/mango_shovel": {
+    "criteria": {
+      "has_mango_ingot": "2025-04-06 19:39:44 -0400"
+    },
+    "done": true
+  },
+  "fruittrees:recipes/misc/mango_ingot_from_blasting_cooked_mango": {
+    "criteria": {
+      "has_cooked_mango": "2025-04-06 19:40:00 -0400"
+    },
+    "done": true
+  },
+  "fruittrees:recipes/tools/pomegranate_axe": {
+    "criteria": {
+      "has_rotten_pomegranate": "2025-04-06 19:40:10 -0400"
+    },
+    "done": true
+  },
+  "fruittrees:recipes/food/sliced_pineapple": {
+    "criteria": {
+      "has_pineapple": "2025-04-06 19:40:11 -0400"
+    },
+    "done": true
+  },
+  "fruittrees:recipes/food/partially_rotten_pomegranate": {
+    "criteria": {
+      "has_pomegranate": "2025-04-06 19:40:08 -0400"
+    },
+    "done": true
+  },
+  "fruittrees:recipes/tools/mango_hoe": {
+    "criteria": {
+      "has_mango_ingot": "2025-04-06 19:39:44 -0400"
+    },
+    "done": true
+  },
+  "fruittrees:recipes/food/rotten_pomegranate": {
+    "criteria": {
+      "has_partially_rotten_pomegranate": "2025-04-06 19:40:09 -0400"
+    },
+    "done": true
+  },
+  "fruittrees:recipes/food/pomegranate_juice": {
+    "criteria": {
+      "has_pomegranate": "2025-04-06 19:40:08 -0400"
+    },
+    "done": true
+  },
+  "fruittrees:recipes/combat/mango_leggings": {
+    "criteria": {
+      "has_mango_ingot": "2025-04-06 19:39:44 -0400"
+    },
+    "done": true
+  },
+  "fruittrees:recipes/tools/pomegranate_pickaxe": {
+    "criteria": {
+      "has_rotten_pomegranate": "2025-04-06 19:40:10 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2025-04-06 19:40:17 -0400"
+    },
+    "done": true
+  },
+  "fruittrees:recipes/combat/pineapple_helmet": {
+    "criteria": {
+      "has_sliced_pineapple": "2025-04-06 19:40:12 -0400"
+    },
+    "done": true
+  },
+  "fruittrees:recipes/combat/mango_boots": {
+    "criteria": {
+      "has_mango_ingot": "2025-04-06 19:39:44 -0400"
+    },
+    "done": true
+  },
+  "fruittrees:recipes/combat/mango_helmet": {
+    "criteria": {
+      "has_mango_ingot": "2025-04-06 19:39:44 -0400"
+    },
+    "done": true
+  },
+  "fruittrees:recipes/combat/pineapple_chestplate": {
+    "criteria": {
+      "has_sliced_pineapple": "2025-04-06 19:40:12 -0400"
+    },
+    "done": true
+  },
+  "fruittrees:recipes/tools/pineapple_sword": {
+    "criteria": {
+      "has_sliced_pineapple": "2025-04-06 19:40:12 -0400"
+    },
+    "done": true
+  },
+  "fruittrees:recipes/food/mango_juice": {
+    "criteria": {
+      "has_mango": "2025-04-06 19:40:06 -0400"
+    },
+    "done": true
+  },
+  "fruittrees:recipes/combat/pomegranate_boots": {
+    "criteria": {
+      "has_rotten_pomegranate": "2025-04-06 19:40:10 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2025-04-06 19:39:44 -0400"
+    },
+    "done": true
+  },
+  "fruittrees:recipes/tools/pineapple_hoe": {
+    "criteria": {
+      "has_sliced_pineapple": "2025-04-06 19:40:12 -0400"
+    },
+    "done": true
+  },
+  "fruittrees:recipes/combat/pomegranate_leggings": {
+    "criteria": {
+      "has_rotten_pomegranate": "2025-04-06 19:40:10 -0400"
+    },
+    "done": true
+  },
+  "fruittrees:recipes/tools/pineapple_shovel": {
+    "criteria": {
+      "has_sliced_pineapple": "2025-04-06 19:40:12 -0400"
+    },
+    "done": true
+  },
+  "fruittrees:recipes/combat/pomegranate_helmet": {
+    "criteria": {
+      "has_rotten_pomegranate": "2025-04-06 19:40:10 -0400"
+    },
+    "done": true
+  },
+  "fruittrees:recipes/tools/pineapple_axe": {
+    "criteria": {
+      "has_sliced_pineapple": "2025-04-06 19:40:12 -0400"
+    },
+    "done": true
+  },
+  "fruittrees:recipes/tools/pomegranate_shovel": {
+    "criteria": {
+      "has_rotten_pomegranate": "2025-04-06 19:40:10 -0400"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:plains": "2025-04-06 19:39:45 -0400"
+    },
+    "done": false
+  },
+  "fruittrees:recipes/combat/pomegranate_chestplate": {
+    "criteria": {
+      "has_rotten_pomegranate": "2025-04-06 19:40:10 -0400"
+    },
+    "done": true
+  },
+  "fruittrees:recipes/tools/mango_axe": {
+    "criteria": {
+      "has_mango_ingot": "2025-04-06 19:39:44 -0400"
+    },
+    "done": true
+  },
+  "fruittrees:recipes/combat/pineapple_leggings": {
+    "criteria": {
+      "has_sliced_pineapple": "2025-04-06 19:40:12 -0400"
+    },
+    "done": true
+  },
+  "fruittrees:recipes/tools/mango_pickaxe": {
+    "criteria": {
+      "has_mango_ingot": "2025-04-06 19:39:44 -0400"
+    },
+    "done": true
+  },
+  "fruittrees:recipes/combat/mango_chestplate": {
+    "criteria": {
+      "has_mango_ingot": "2025-04-06 19:39:44 -0400"
+    },
+    "done": true
+  },
+  "fruittrees:recipes/tools/pomegranate_hoe": {
+    "criteria": {
+      "has_rotten_pomegranate": "2025-04-06 19:40:10 -0400"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2025-04-06 19:39:44 -0400"
+    },
+    "done": true
+  },
+  "fruittrees:recipes/combat/pineapple_boots": {
+    "criteria": {
+      "has_sliced_pineapple": "2025-04-06 19:40:12 -0400"
+    },
+    "done": true
+  },
+  "fruittrees:recipes/combat/mango_sword": {
+    "criteria": {
+      "has_mango_ingot": "2025-04-06 19:39:44 -0400"
+    },
+    "done": true
+  },
+  "fruittrees:recipes/tools/pineapple_pickaxe": {
+    "criteria": {
+      "has_sliced_pineapple": "2025-04-06 19:40:12 -0400"
+    },
+    "done": true
+  },
+  "fruittrees:recipes/tools/pomegranate_sword": {
+    "criteria": {
+      "has_rotten_pomegranate": "2025-04-06 19:40:10 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2025-04-06 19:40:17 -0400"
+    },
+    "done": true
+  },
+  "DataVersion": 4189
+}

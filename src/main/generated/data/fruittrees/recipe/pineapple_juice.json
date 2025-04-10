@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "fruittrees:juicer",
+    "fruittrees:pineapple",
+    "minecraft:glass_bottle"
+  ],
+  "result": {
+    "count": 1,
+    "id": "fruittrees:pineapple_juice"
+  }
+}

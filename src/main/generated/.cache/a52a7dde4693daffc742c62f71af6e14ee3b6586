@@ -1,0 +1,7 @@
+// 1.21.4	-999999999-01-01T00:00:00	Fruit Trees/Block Loot Tables
+5d7ca4c7dea8618fac50856d3334aec25baf23ed data/fruittrees/loot_table/blocks/mango_sapling.json
+3b475fab22faa099b65f2f0081b9875b320e9ba0 data/fruittrees/loot_table/blocks/pineapple_sapling.json
+0cfa0e2690c2d448d76c64178d74f02d4698f535 data/fruittrees/loot_table/blocks/pomegranate_sapling.json
+791500d87de1e1b255ed01952f9ccc37d4e9c36e data/fruittrees/loot_table/blocks/potted_mango_sapling.json
+3656290118c3f13b15d632acb2b75630435bffac data/fruittrees/loot_table/blocks/potted_pineapple_sapling.json
+6385a454399941e27697a9deeac5df09690f6a22 data/fruittrees/loot_table/blocks/potted_pomegranate_sapling.json

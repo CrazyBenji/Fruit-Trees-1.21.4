@@ -1,0 +1,14 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "fruittrees:mango"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "fruittrees:mango"
+      }
+    ]
+  }
+}

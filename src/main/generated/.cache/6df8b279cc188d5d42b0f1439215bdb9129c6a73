@@ -1,0 +1,8 @@
+// 1.21.4	-999999999-01-01T00:00:00	Fruit Trees/Tags for minecraft:item
+49e7736df881cc645d5131e5b7df5e2290872b1d data/fruittrees/tags/item/fruits.json
+dd7c68a7fc4b3f5ec859407147404431da121304 data/fruittrees/tags/item/mango_tool_materials.json
+c8df9f36dc992fd0815187792d93a754f7e87b7a data/fruittrees/tags/item/pineapple_tool_materials.json
+1b8ff967ec3497c20436f35e077cdc96ce714c63 data/fruittrees/tags/item/pomegranate_tool_materials.json
+dd7c68a7fc4b3f5ec859407147404431da121304 data/fruittrees/tags/item/repairs_mango_armor.json
+c8df9f36dc992fd0815187792d93a754f7e87b7a data/fruittrees/tags/item/repairs_pineapple_armor.json
+1b8ff967ec3497c20436f35e077cdc96ce714c63 data/fruittrees/tags/item/repairs_pomegranate_armor.json

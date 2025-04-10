@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "i": "fruittrees:pineapple",
+    "m": "fruittrees:mango",
+    "p": "fruittrees:pomegranate",
+    "s": "minecraft:sugar"
+  },
+  "pattern": [
+    "sm",
+    "pi"
+  ],
+  "result": {
+    "count": 1,
+    "id": "fruittrees:fruit_snack"
+  }
+}

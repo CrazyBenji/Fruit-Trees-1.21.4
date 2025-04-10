@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "b": "minecraft:bone_meal",
+    "p": "#fruittrees:pomegranate_tool_materials"
+  },
+  "pattern": [
+    "bbb",
+    "bpb",
+    "bbb"
+  ],
+  "result": {
+    "count": 1,
+    "id": "fruittrees:rotten_pomegranate"
+  }
+}

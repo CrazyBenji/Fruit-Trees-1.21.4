@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "m": "#fruittrees:mango_tool_materials",
+    "s": "minecraft:stick"
+  },
+  "pattern": [
+    "mmm",
+    " s ",
+    " s "
+  ],
+  "result": {
+    "count": 1,
+    "id": "fruittrees:mango_pickaxe"
+  }
+}

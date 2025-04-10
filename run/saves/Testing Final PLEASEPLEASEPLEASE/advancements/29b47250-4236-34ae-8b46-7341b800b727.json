@@ -1,0 +1,51 @@
+{
+  "fruittrees:recipes/misc/mango_ingot_from_blasting_cooked_mango": {
+    "criteria": {
+      "has_cooked_mango": "2025-03-31 10:10:45 -0400"
+    },
+    "done": true
+  },
+  "fruittrees:recipes/food/cooked_mango_from_smelting_mango": {
+    "criteria": {
+      "has_mango": "2025-03-31 10:10:12 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/campfire": {
+    "criteria": {
+      "has_coal": "2025-03-31 10:10:33 -0400"
+    },
+    "done": true
+  },
+  "fruittrees:recipes/food/mango_juice": {
+    "criteria": {
+      "has_mango": "2025-03-31 10:10:12 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2025-03-31 10:10:12 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2025-03-31 10:10:12 -0400"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:plains": "2025-03-31 10:10:13 -0400"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_coal": "2025-03-31 10:10:33 -0400"
+    },
+    "done": true
+  },
+  "DataVersion": 4189
+}

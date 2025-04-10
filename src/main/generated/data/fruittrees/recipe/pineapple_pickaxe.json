@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "p": "#fruittrees:pineapple_tool_materials",
+    "s": "minecraft:stick"
+  },
+  "pattern": [
+    "ppp",
+    " s ",
+    " s "
+  ],
+  "result": {
+    "count": 1,
+    "id": "fruittrees:pineapple_pickaxe"
+  }
+}

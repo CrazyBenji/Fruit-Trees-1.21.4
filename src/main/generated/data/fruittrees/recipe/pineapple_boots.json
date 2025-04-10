@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "a": "fruittrees:armor_core",
+    "m": "#fruittrees:pineapple_tool_materials"
+  },
+  "pattern": [
+    "mam",
+    "m m"
+  ],
+  "result": {
+    "count": 1,
+    "id": "fruittrees:pineapple_boots"
+  }
+}

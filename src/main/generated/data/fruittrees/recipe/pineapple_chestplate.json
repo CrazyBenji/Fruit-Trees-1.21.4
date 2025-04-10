@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "a": "fruittrees:armor_core",
+    "m": "#fruittrees:pineapple_tool_materials"
+  },
+  "pattern": [
+    "mam",
+    "mmm",
+    "mmm"
+  ],
+  "result": {
+    "count": 1,
+    "id": "fruittrees:pineapple_chestplate"
+  }
+}

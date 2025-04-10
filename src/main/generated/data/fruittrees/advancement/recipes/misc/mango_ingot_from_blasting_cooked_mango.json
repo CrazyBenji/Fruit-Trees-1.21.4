@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_cooked_mango": {
+      "conditions": {
+        "items": [
+          {
+            "items": "fruittrees:cooked_mango"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "minecraft:mango_ingot_from_blasting_cooked_mango"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_cooked_mango"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "minecraft:mango_ingot_from_blasting_cooked_mango"
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "fruittrees:pineapple",
+    "fruittrees:mangrove_knife"
+  ],
+  "result": {
+    "count": 1,
+    "id": "fruittrees:sliced_pineapple"
+  }
+}

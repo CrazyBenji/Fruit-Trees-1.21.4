@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "b": "minecraft:bowl",
+    "i": "fruittrees:pineapple",
+    "m": "fruittrees:mango",
+    "p": "fruittrees:pomegranate"
+  },
+  "pattern": [
+    "mpi",
+    " b "
+  ],
+  "result": {
+    "count": 1,
+    "id": "fruittrees:fruit_salad"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "c": "fruittrees:corrupted_nether_star",
+    "d": "minecraft:diamond",
+    "g": "minecraft:gold_ingot",
+    "l": "minecraft:lapis_lazuli",
+    "p": "minecraft:prismarine_shard",
+    "r": "minecraft:redstone"
+  },
+  "pattern": [
+    "prp",
+    "dcl",
+    "pgp"
+  ],
+  "result": {
+    "count": 1,
+    "id": "fruittrees:armor_core"
+  }
+}

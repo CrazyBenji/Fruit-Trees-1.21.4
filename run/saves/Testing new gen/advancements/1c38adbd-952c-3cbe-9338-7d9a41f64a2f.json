@@ -1,0 +1,63 @@
+{
+  "fruittrees:recipes/food/pineapple_juice": {
+    "criteria": {
+      "has_pineapple": "2025-04-08 15:21:40 -0400"
+    },
+    "done": true
+  },
+  "fruittrees:recipes/food/sliced_pineapple": {
+    "criteria": {
+      "has_pineapple": "2025-04-08 15:21:40 -0400"
+    },
+    "done": true
+  },
+  "fruittrees:recipes/food/partially_rotten_pomegranate": {
+    "criteria": {
+      "has_pomegranate": "2025-04-08 15:21:40 -0400"
+    },
+    "done": true
+  },
+  "fruittrees:recipes/food/pomegranate_juice": {
+    "criteria": {
+      "has_pomegranate": "2025-04-08 15:21:40 -0400"
+    },
+    "done": true
+  },
+  "fruittrees:recipes/food/mango_juice": {
+    "criteria": {
+      "has_mango": "2025-04-08 15:21:40 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2025-04-08 15:21:40 -0400"
+    },
+    "done": true
+  },
+  "fruittrees:recipes/food/fruit_snack": {
+    "criteria": {
+      "has_sugar": "2025-04-08 15:21:40 -0400"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:plains": "2025-04-08 15:21:41 -0400"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-04-08 15:21:43 -0400"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2025-04-08 15:21:40 -0400"
+    },
+    "done": true
+  },
+  "DataVersion": 4189
+}

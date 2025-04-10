@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "d": "minecraft:diamond",
+    "i": "minecraft:iron_ingot"
+  },
+  "pattern": [
+    "  i",
+    " id",
+    "iii"
+  ],
+  "result": {
+    "count": 1,
+    "id": "fruittrees:juicer"
+  }
+}

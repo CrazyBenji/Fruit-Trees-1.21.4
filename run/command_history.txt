@@ -1,0 +1,50 @@
+/gamemode survival
+/gamemode creative
+/gamemode survival
+/gamemode creative
+/gamemode survival
+/gamemode creative
+/gamemode survival
+/gamemode creative
+/gamemode survival
+/gamemode creative
+/summon chicken ~ ~ ~ {Passengers:[{id:zombie,IsBaby:1,Equipment:[{Slot:0,id:mango_sword,Count:1b},{Slot:1,id:mango_helmet,Count:1b},{Slot:2,id:mango_chestplate,Count:1b},{Slot:3,id:mango_leggings,Count:1b},{Slot:4,id:mango_boots,Count:1b}]}]}
+/gamemode survival
+/give @s fruittrees:mango_axe
+/gamemode creative
+/time set day
+/gamemode survival
+/gamemode creative
+/gamemode survival
+/effect give @s minecraft:hunger 20 5
+/effect give @s minecraft:hunger 20 10
+/gamemode creative
+/time set day
+/gamemode survival
+/gamemode creative
+/fill ~ ~ ~ ~10 ~10 ~10 fruittrees:mango_leaves
+/gamemode survival
+/gamemode creative
+/effect give @s minecraft:nausea 100 100
+/effect clear
+/time set day
+/gamerule randomTickSpeed 10000
+/gamerule randomTickSpeed 1
+/weather clear
+/time set day
+/gamerule doDaylightCycle false
+/give @s fruittrees:juicer
+/locate biome minecraft:plains
+/tp @s -375 68 726
+/locate biome minecraft:plains
+/tp @s -186 104 172
+/gamemode survival
+/locate biome minecraft:snowy_plains
+/tp @s -128 108 1632
+/locate biome minecraft:sparse_jungle
+/tp @s -1182 69 589
+/locate biome minecraft:plains
+/tp @s -1733 115 384
+/gamemode survival
+/locate biome minecraft:plains
+/tp @s -233 71 181

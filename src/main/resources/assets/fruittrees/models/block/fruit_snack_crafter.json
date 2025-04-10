@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "down": "fruittrees:block/fruit_snack_crafter_bottom",
+    "east": "fruittrees:block/fruit_snack_crafter_side",
+    "north": "fruittrees:block/fruit_snack_crafter_side",
+    "particle": "fruittrees:block/fruit_snack_crafter_side",
+    "south": "fruittrees:block/fruit_snack_crafter_side",
+    "up": "fruittrees:block/fruit_snack_crafter_top",
+    "west": "fruittrees:block/fruit_snack_crafter_side"
+  }
+}

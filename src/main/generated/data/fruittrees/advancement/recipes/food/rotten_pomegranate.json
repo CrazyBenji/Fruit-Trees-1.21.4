@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_partially_rotten_pomegranate": {
+      "conditions": {
+        "items": [
+          {
+            "items": "fruittrees:partially_rotten_pomegranate"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "fruittrees:rotten_pomegranate"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_partially_rotten_pomegranate"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "fruittrees:rotten_pomegranate"
+    ]
+  }
+}

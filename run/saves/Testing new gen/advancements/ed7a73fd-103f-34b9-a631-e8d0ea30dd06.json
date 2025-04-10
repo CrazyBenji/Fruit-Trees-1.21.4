@@ -1,0 +1,75 @@
+{
+  "fruittrees:recipes/tools/mango_shovel": {
+    "criteria": {
+      "has_mango_ingot": "2025-04-06 19:35:44 -0400"
+    },
+    "done": true
+  },
+  "fruittrees:recipes/tools/mango_hoe": {
+    "criteria": {
+      "has_mango_ingot": "2025-04-06 19:35:44 -0400"
+    },
+    "done": true
+  },
+  "fruittrees:recipes/combat/mango_leggings": {
+    "criteria": {
+      "has_mango_ingot": "2025-04-06 19:35:44 -0400"
+    },
+    "done": true
+  },
+  "fruittrees:recipes/combat/mango_boots": {
+    "criteria": {
+      "has_mango_ingot": "2025-04-06 19:35:44 -0400"
+    },
+    "done": true
+  },
+  "fruittrees:recipes/combat/mango_helmet": {
+    "criteria": {
+      "has_mango_ingot": "2025-04-06 19:35:44 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2025-04-06 19:35:36 -0400"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:plains": "2025-04-06 19:35:37 -0400"
+    },
+    "done": false
+  },
+  "fruittrees:recipes/tools/mango_axe": {
+    "criteria": {
+      "has_mango_ingot": "2025-04-06 19:35:44 -0400"
+    },
+    "done": true
+  },
+  "fruittrees:recipes/tools/mango_pickaxe": {
+    "criteria": {
+      "has_mango_ingot": "2025-04-06 19:35:44 -0400"
+    },
+    "done": true
+  },
+  "fruittrees:recipes/combat/mango_chestplate": {
+    "criteria": {
+      "has_mango_ingot": "2025-04-06 19:35:44 -0400"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2025-04-06 19:35:49 -0400"
+    },
+    "done": true
+  },
+  "fruittrees:recipes/combat/mango_sword": {
+    "criteria": {
+      "has_mango_ingot": "2025-04-06 19:35:44 -0400"
+    },
+    "done": true
+  },
+  "DataVersion": 4189
+}

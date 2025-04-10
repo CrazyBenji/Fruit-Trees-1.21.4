@@ -1,0 +1,40 @@
+{
+	"schemaVersion": 1,
+	"id": "fruittrees",
+	"version": "1.0.1",
+	"name": "Fruit Trees",
+	"description": "A mod that hopes to breathe some life into the somewhat lacking fruit selections of Minecraft.",
+	"authors": [
+		"CrazyBenji"
+	],
+	"contact": {
+		"homepage": "https://github.com/CrazyBenji",
+		"sources": "https://github.com/CrazyBenji/Fruit-Trees-1.21.4"
+	},
+	"license": "CC0-1.0",
+	"icon": "assets/fruittrees/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"benji.fruittrees.FruitTrees"
+		],
+		"fabric-datagen": [
+			"benji.fruittrees.datagen.FruitTreesDataGenerator"
+		],
+		"client": [
+			"benji.fruittrees.FruitTreesClient"
+		]
+	},
+	"mixins": [
+		"fruittrees.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.16.10",
+		"minecraft": "~1.21.4",
+		"java": ">=21",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}

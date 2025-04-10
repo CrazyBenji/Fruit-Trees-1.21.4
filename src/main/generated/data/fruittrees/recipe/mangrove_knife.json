@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "i": "minecraft:iron_ingot",
+    "m": "minecraft:mangrove_log"
+  },
+  "pattern": [
+    "iim"
+  ],
+  "result": {
+    "count": 1,
+    "id": "fruittrees:mangrove_knife"
+  }
+}
